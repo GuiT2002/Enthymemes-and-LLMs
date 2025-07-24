@@ -1,0 +1,10 @@
+[classification(rose,flower)],be(A,rose)
+[classification(x5_model,bmw),be(x5_model,x5_model)],be(x5_model,bmw)
+[classification(oak_tree,tree),be(X,oak_tree)],be(X,tree)
+[classification(mystery_novel,novel),be(mystery_novels,mystery_novel)],be(mystery_novels,novel)
+[classification(laptop,electronic_device),be(A,laptop)],be(A,electronic_device)
+[classification(bottlenose_dolphin,dolphin),be(bottlenose_dolphin,bottlenose_dolphin)],be(bottlenose_dolphin,dolphin)
+[classification(whale,mammal)]
+[classification(grand_piano,piano),be(grand_piano,grand_piano)],be(grand_piano,piano)
+[classification(bicycle,vehicle),be(A,bicycle)],be(A,vehicle)
+[classification(iphone,smartphone),be(iphone,iphone)],be(iphone,smartphone)

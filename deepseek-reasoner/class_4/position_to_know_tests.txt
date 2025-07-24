@@ -1,0 +1,10 @@
+[position_to_know(joseph,health),asserts(joseph,exercising_is_healthy),contain(health,exercising_is_healthy)],exercising_is_healthy
+[classification(mathematician,scientist),be(maria,mathematician)],be(maria,scientist)
+[position_to_know(emily,cell_biology),asserts(emily,has_all(eukaryotic_cells,mitochondria)),contain(cell_biology,has_all(eukaryotic_cells,mitochondria))],has_all(eukaryotic_cells,mitochondria)
+[position_to_know(david,geology),asserts(david,Ar),contain(geology,Ar)],Ar
+[position_to_know(james,microbiology),asserts(james,are(bacterias,unicellular_microorganisms)),contain(microbiology,are(bacterias,unicellular_microorganisms))],are(bacterias,unicellular_microorganisms)
+[classification(computer_scientist,scientist),be(george,computer_scientist)],be(george,scientist)
+[position_to_know(peter,oncology),asserts(peter,causes(smoking,cancer)),contain(oncology,causes(smoking,cancer))],causes(smoking,cancer)
+[classification(economist,professional),be(lisa,economist)],be(lisa,professional)
+[position_to_know(mark,architectural_design),asserts(mark,form_follows_function),contain(architectural_design,form_follows_function)],form_follows_function
+[classification(physicist,scientist),be(john,physicist)],be(john,scientist)

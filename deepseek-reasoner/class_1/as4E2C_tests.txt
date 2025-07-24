@@ -1,0 +1,10 @@
+[occured(exercises_regularly(person)),followed(occured(exercises_regularly(person)),occurs(physically_fit(person)))],occurs(physically_fit(person))
+[occured(invests(company,employee_training)),followed(occured(invests(company,employee_training)),occurs(improves(employee_performance))],occurs(improves(employee_performance))
+[occured(follow_recipe_accurately),followed(occured(follow_recipe_accurately),turns_out_delicious(dish))],turns_out_delicious(dish)
+[occured(collaborate_effectively(team)),followed(occured(collaborate_effectively(team)),achieve(team,their_goals))],achieve(team,their_goals)
+[occured(properly_maintained(computer_system)),followed(occured(properly_maintained(computer_system)),runs_smoothly(computer_system))],runs_smoothly(computer_system)
+[occured(get_enough_sleep(person)),followed(occured(get_enough_sleep(person)),occurs(feel_more_focused(person)))],occurs(feel_more_focused(person))
+[occured(rain),followed(occured(rain),wet(streets))],wet(streets)
+[occured(attends(student,classes_regularly)),followed(occured(attends(student,classes_regularly)),occurs(improves(academic_performance)))],occurs(improves(academic_performance))
+[occured(well_maintained(road)),followed(occured(well_maintained(road)),smooth_traffic_flow)],smooth_traffic_flow
+[occured(got_sufficient_sleep(individual)),followed(occured(got_sufficient_sleep(individual)),occurs(cognitive_performance_will_improve(individual)))],occurs(cognitive_performance_will_improve(individual))

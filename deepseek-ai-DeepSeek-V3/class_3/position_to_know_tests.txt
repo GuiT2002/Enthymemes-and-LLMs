@@ -1,0 +1,10 @@
+[position_to_know(joseph,medicine),asserts(joseph,healthy(exercising)),contain(medicine,healthy(exercising))],healthy(exercising)
+[position_to_know(maria,mathematics),asserts(maria,subset(real_numbers,complex_numbers)),contain(mathematics,subset(real_numbers,complex_numbers))],subset(real_numbers,complex_numbers)
+[position_to_know(emily,biology),asserts(emily,have(eukaryotic_cells,mitochondria)),contain(biology,have(eukaryotic_cells,mitochondria))],have(eukaryotic_cells,mitochondria)
+[position_to_know(david,geology),asserts(david,expel(volcanoes,lava)),contain(geology,expel(volcanoes,lava))],expel(volcanoes,lava)
+[position_to_know(james,microbiology),asserts(james,unicellular_microorganisms(bacterias)),contain(microbiology,unicellular_microorganisms(bacterias))],unicellular_microorganisms(bacterias)
+[position_to_know(george,computer_science),asserts(george,secures(cryptography,data)),contain(computer_science,secures(cryptography,data))],secures(cryptography,data)**
+[position_to_know(peter,medicine),asserts(peter,causes(smoking,cancer)),contain(medicine,causes(smoking,cancer))],causes(smoking,cancer)
+[position_to_know(lisa,economics),asserts(lisa,influences(supply_and_demand_dynamics,market_prices)),contain(economics,influences(supply_and_demand_dynamics,market_prices))],influences(supply_and_demand_dynamics,market_prices)
+[position_to_know(mark,architecture),asserts(mark,follows(form,function)),contain(architecture,follows(form,function))],follows(form,function)
+[position_to_know(john,physics),asserts(john,spin(black_holes)),contain(physics,spin(black_holes))],spin(black_holes)

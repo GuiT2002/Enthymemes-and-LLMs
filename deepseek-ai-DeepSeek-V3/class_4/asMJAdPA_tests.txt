@@ -1,0 +1,10 @@
+[everybody_who_is(honest,accept(the_truth))]
+[everybody_who_is(understanding,accept(understanding_behavior)),goal_of(mike,understanding)],should(mike,accept(understanding_behavior))
+[everybody_who_is(patient,accept(delays)),goal_of(X,patient)],should(X,accept(delays))
+[goal(olivia,be_diligent),necessary_condition(be_diligent,necessary_action)],is_necessary(necessary_action)
+[everybody_who_is(optimistic,accept(challenges)),goal_of(X,optimistic)],should(X,accept(challenges))
+`[goal(be(jake, resilient)), necessary_condition(be(jake, resilient), action_to_achieve_resilience)], is_necessary(action_to_achieve_resilience)`
+[everybody_who_is(humble,accept(praise))]
+[everybody_who_is(ambitious,accept(working_hard)),goal_of(daniel,ambitious)],should(daniel,accept(working_hard))
+[everybody_who_is(tolerant,accept(diversity)),goal_of(X,tolerant)],should(X,accept(diversity))
+`[goal(be(noah, optimistic)), necessary_condition(be(noah, optimistic), practice_gratitude(noah))], is_necessary(practice_gratitude(noah))`

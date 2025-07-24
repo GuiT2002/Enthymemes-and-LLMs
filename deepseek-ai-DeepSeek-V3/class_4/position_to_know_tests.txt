@@ -1,0 +1,10 @@
+[position_to_know(joseph,health),asserts(joseph,healthy(exercising)),contain(health,healthy(exercising))],healthy(exercising)
+[position_to_know(maria,mathematics),asserts(maria,true_mathematical_claim),contain(mathematics,true_mathematical_claim)],true_mathematical_claim
+[position_to_know(emily,biology),asserts(emily,have(eukaryotic_cells,mitochondria)),contain(biology,have(eukaryotic_cells,mitochondria))],have(eukaryotic_cells,mitochondria)
+[position_to_know(david, geology)], [incomplete_argument]. 
+[position_to_know(james,microbiology),asserts(james,are(bacterias,unicellular_microorganisms)),contain(microbiology,are(bacterias,unicellular_microorganisms))],are(bacterias,unicellular_microorganisms)
+[classification(computer_scientist, scientist), be(george, computer_scientist)], be(george, scientist)
+[position_to_know(peter,medicine),asserts(peter,causes(smoking,cancer)),contain(medicine,causes(smoking,cancer))],causes(smoking,cancer)
+[position_to_know(lisa,economics),asserts(lisa,rise(inflation,next_year)),contain(economics,rise(inflation,next_year))],rise(inflation,next_year)
+[position_to_know(mark,architectural_design),asserts(mark,form_follows_function),contain(architectural_design,form_follows_function)],form_follows_function
+[position_to_know(john,physics),asserts(john,Ar),contain(physics,Ar)],Ar

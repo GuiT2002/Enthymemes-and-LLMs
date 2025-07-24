@@ -1,0 +1,10 @@
+[goal(bring_about(technological_innovation))],is_necessary(bring_about(technological_innovation))
+[goal(this),necessary_condition(this,foster_business_friendly_environment)],is_necessary(foster_business_friendly_environment)
+[goal(improving_healthcare),necessary_condition(improving_healthcare,necessary_action)],is_necessary(necessary_action)
+[goal(bringing_about_transformation),necessary_condition(bringing_about_transformation,advance(machine_learning_algorithms))],is_necessary(advance(machine_learning_algorithms))
+[goal(progress_cybersecurity),necessary_condition(progress_cybersecurity,required_action)],is_necessary(required_action)
+[goal(make_this_reality),necessary_condition(make_this_reality,promote(energy_efficient_computing))],is_necessary(promote(energy_efficient_computing))
+[goal(farming)],is_necessary(Si)
+[goal(achieve(it)),necessary_condition(achieve(it),find_inspiration)],is_necessary(find_inspiration)
+[goal(play_soccer)]
+[goal(do_so),necessary_condition(do_so,review_chess_theory)],is_necessary(review_chess_theory)

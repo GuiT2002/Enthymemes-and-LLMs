@@ -1,0 +1,10 @@
+[occured(exercises_regularly(person)),followed(occured(exercises_regularly(person)),occurs(healthy(person)))],occurs(healthy(person))
+[occured(invests(company,employee_training)),followed(occured(invests(company,employee_training)),improves(employee_performance))],improves(employee_performance)
+[occured(followed_accurately(recipe)), followed(occured(followed_accurately(recipe)), turns_out_well(dish))], turns_out_well(dish)
+[occured(collaborates_effectively(team)),followed(occured(collaborates_effectively(team)),achieves(team,goals))],achieves(team,goals)
+[position_to_know(system_admin,computer_system_maintenance),asserts(system_admin,properly_maintained(computer_system)),contain(computer_system_maintenance,properly_maintained(computer_system))],properly_maintained(computer_system)
+`[occured(gets_enough_sleep(person)), followed(occured(gets_enough_sleep(person)), feels_more_focused(person))], feels_more_focused(person)`
+[occured(provides(company,excellent_customer_service),followed(occured(provides(company,excellent_customer_service)),increases(company,customer_satisfaction))],increases(company,customer_satisfaction)
+[occured(attends(student,classes_regularly)),followed(occured(attends(student,classes_regularly)),improves(student,academic_performance))],improves(student,academic_performance)
+[classification(well_maintained_road,safe_road),be(the_road,well_maintained_road)],be(the_road,safe_road)
+`[occured(gets_enough_sleep(someone)), followed(occured(gets_enough_sleep(someone)), improves(cognitive_performance))], improves(cognitive_performance)`

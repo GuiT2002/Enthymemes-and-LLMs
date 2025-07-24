@@ -1,0 +1,10 @@
+[classification(regular_exerciser,physically_fit),be(person,regular_exerciser)],be(person,physically_fit)
+[occured(provides(company,employee_training)),followed(occured(provides(company,employee_training)),improves(employee_performance))],improves(employee_performance)
+[occured(follow_recipe(chef)),followed(occured(follow_recipe(chef)),occurs(turn_out_delicious(dish))],occurs(turn_out_delicious(dish))
+[occured(action(they)),followed(occured(action(they)),achieves(they,goals))],achieves(they,goals)
+[occured(proper_maintenance),followed(occured(proper_maintenance),occurs(run_smoothly))],occurs(run_smoothly)
+[occured(A),followed(occured(A),occurs(feel_more_focused(they)))],occurs(feel_more_focused(they))
+[occured(provides(company,excellent_customer_service)),followed(occured(provides(company,excellent_customer_service)),increases(company,customer_satisfaction))],increases(company,customer_satisfaction)
+[occured(A),followed(occured(A),improves(academic_performance))],improves(academic_performance)
+[occured(implement(city,new_traffic_system)),followed(occured(implement(city,new_traffic_system)),smoother_traffic_flow)],smoother_traffic_flow
+[occured(A),followed(occured(A),occurs(improve(cognitive_performance)))],occurs(improve(cognitive_performance))

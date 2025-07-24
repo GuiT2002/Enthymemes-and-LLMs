@@ -1,0 +1,10 @@
+[has_property(love,affection),is_opposite(love,hate)],has_property(hate,opposite_of(affection))
+[is_opposite(order,chaos)]
+[has_property(light,illumination),is_opposite(light,darkness)],has_property(darkness,opposite_of(illumination))
+[has_property(patience,virtuous),is_opposite(patience,impatience)],has_property(impatience,opposite_of(virtuous))`
+[has_property(beauty,aesthetics),is_opposite(beauty,ugliness)],has_property(ugliness,opposite_of(aesthetics))
+[has_property(progress,positive_direction),is_opposite(progress,regression)],has_property(regression,opposite_of(positive_direction))
+[has_property(humility,modesty),is_opposite(humility,pride)],has_property(pride,opposite_of(modesty))
+[has_property(knowledge,P),is_opposite(knowledge,ignorance)],has_property(ignorance,opposite_of(P))
+[has_property(forgiveness,mercy),is_opposite(forgiveness,vengeance)],has_property(vengeance,opposite_of(mercy))
+[has_property(hope,positive_emotion),is_opposite(hope,despair)],has_property(despair,opposite_of(positive_emotion))

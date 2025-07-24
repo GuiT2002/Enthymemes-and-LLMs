@@ -1,0 +1,10 @@
+[occured(exercises_regularly(person)), followed(occured(exercises_regularly(person)), physically_fit(person))], physically_fit(person)
+[occured(implemented(company,training_program)),followed(occured(implemented(company,training_program)),improves(employee_performance))],improves(employee_performance)
+[occured(followed_recipe_precisely(chef)), followed(occured(followed_recipe_precisely(chef)), turn_out_delicious(dish))], turn_out_delicious(dish).
+[goal(their_goals), necessary_condition(their_goals, some_action)], is_necessary(some_action).
+[occured(system_well_maintained), followed(occured(system_well_maintained), occurs(run_smoothly))], occurs(run_smoothly)
+[occured(drank_coffee),followed(occured(drank_coffee),feel_more_focused)],feel_more_focused
+[occured(provides(company,excellent_customer_service)),followed(occured(provides(company,excellent_customer_service)),increases(company,customer_satisfaction))],increases(company,customer_satisfaction)
+[occured(attended(students, extra_tutoring_sessions)), followed(occured(attended(students, extra_tutoring_sessions)), improves(students, academic_performance))], improves(students, academic_performance)
+[occured(synchronized(traffic_lights)), followed(occured(synchronized(traffic_lights)), smoother(traffic_flow))], smoother(traffic_flow)
+[occured(action_X),followed(occured(action_X),improves(cognitive_performance))],improves(cognitive_performance)
