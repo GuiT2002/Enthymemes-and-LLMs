@@ -1,0 +1,10 @@
+[everybody_who_is(honest,accept(truth)),goal_of(emily,honest)],should(emily,accept(truth))
+[everybody_who_is(understanding,accept(different_opinions)),goal_of(mike,understanding)],should(mike,accept(different_opinions))
+`[everybody_who_is(patient,accept(delays)),goal_of(maria,patient)],should(maria,accept(delays))`
+[everybody_who_is(diligent,accept(hard_work)),goal_of(olivia,diligent)],should(olivia,accept(hard_work))
+[everybody_who_is(optimistic,accept(challenges)),goal_of(mia,optimistic)],should(mia,accept(challenges))
+[everybody_who_is(resilient,accept(setbacks)),goal_of(jake,resilient)],should(jake,accept(setbacks))
+[everybody_who_is(humble,accept(praise)),goal_of(sophia,humble)],should(sophia,accept(praise))
+[everybody_who_is(ambitious,accept(hard_work)),goal_of(daniel,ambitious)],should(daniel,accept(hard_work))
+[everybody_who_is(tolerant,accept(diversity)),goal_of(lily,tolerant)],should(lily,accept(diversity))
+[everybody_who_is(optimistic,accept(uncertainties)),goal_of(Noah,optimistic)],should(Noah,accept(uncertainties))

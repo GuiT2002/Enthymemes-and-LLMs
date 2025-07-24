@@ -1,0 +1,1 @@
+Argumentation scheme: [classification(F,G),be(A,F)],be(A,G). Example 1: All eagles are birds. White eagles are eagles. Therefore, white eagles are birds. [classification(eagle,bird),be(white_eagle,eagle)],be(white_eagle,bird)

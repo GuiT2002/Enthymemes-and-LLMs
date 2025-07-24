@@ -1,0 +1,10 @@
+[would_help(installing_brighter_streetlights,city),can_carry_out(city,installing_brighter_streetlights),not_too_costly(city,installing_brighter_streetlights)],ought_to_carry_out(city,installing_brighter_streetlights)
+[would_help(regular_exercise,health),can_carry_out(individuals,regular_exercise),not_too_costly(individuals,regular_exercise)],ought_to_carry_out(individuals,regular_exercise)
+[would_help(using_reusable_bags,environment),can_carry_out(shoppers,using_reusable_bags),not_too_costly(shoppers,using_reusable_bags)],ought_to_carry_out(shoppers,using_reusable_bags).
+[would_help(providing_clear_instructions,students),can_carry_out(teachers,providing_clear_instructions),not_too_costly(teachers,providing_clear_instructions)],ought_to_carry_out(teachers,providing_clear_instructions)
+`[would_help(install_more_recycling_bins, reduce_waste), can_carry_out(communities, install_more_recycling_bins), not_too_costly(communities, install_more_recycling_bins)], ought_to_carry_out(communities, install_more_recycling_bins)`
+[would_help(conducting_regular_check-ups,patients),can_carry_out(doctors,conducting_regular_check-ups),not_too_costly(doctors,conducting_regular_check-ups)],ought_to_carry_out(doctors,conducting_regular_check-ups)
+[would_help(installing_improved_signage,some_entity),can_carry_out(municipalities,installing_improved_signage),not_too_costly(municipalities,installing_improved_signage)],ought_to_carry_out(municipalities,installing_improved_signage)
+[would_help(early_education,children),can_carry_out(schools,early_education),not_too_costly(schools,early_education)],ought_to_carry_out(schools,early_education)
+[would_help(organize(team_building_activities),team),can_carry_out(managers,organize(team_building_activities)),not_too_costly(managers,organize(team_building_activities))],ought_to_carry_out(managers,organize(team_building_activities))
+[would_help(engaging_in_open_communication,team_members),can_carry_out(team_members,engaging_in_open_communication),not_too_costly(team_members,engaging_in_open_communication)],ought_to_carry_out(team_members,engaging_in_open_communication)

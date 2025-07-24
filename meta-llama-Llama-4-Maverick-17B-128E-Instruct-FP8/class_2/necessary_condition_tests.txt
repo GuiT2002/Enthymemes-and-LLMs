@@ -1,0 +1,10 @@
+[goal(achieve_progress),necessary_condition(achieve_progress,increased_investment_in_research_and_development)],is_necessary(increased_investment_in_research_and_development)
+[goal(achieve(economic_growth)),necessary_condition(achieve(economic_growth),foster(business_friendly_environment))],is_necessary(foster(business_friendly_environment)).
+[goal(improve_healthcare),necessary_condition(improve_healthcare,expand_healthcare_infrastructure)],is_necessary(expand_healthcare_infrastructure)
+[goal(achieve(advancements,AI_research)),necessary_condition(achieve(advancements,AI_research),advance(machine_learning_algorithms))],is_necessary(advance(machine_learning_algorithms))
+[goal(achieve(secure_data_transfer)),necessary_condition(achieve(secure_data_transfer),implement(robust_encryption_protocols))],is_necessary(implement(robust_encryption_protocols))
+[goal(promote(sustainability)),necessary_condition(promote(sustainability),promote(energy-efficient_computing))],is_necessary(promote(energy-efficient_computing))
+[goal(improve(water_usage_efficiency)),necessary_condition(improve(water_usage_efficiency),invest(smart_irrigation))],is_necessary(invest(smart_irrigation))
+[goal(create_something),necessary_condition(create_something,find_inspiration)],is_necessary(find_inspiration)
+[goal(achieve_success),necessary_condition(achieve_success,train_hard)],is_necessary(train_hard)
+[goal(improve_at_chess),necessary_condition(improve_at_chess,review_chess_theory)],is_necessary(review_chess_theory)

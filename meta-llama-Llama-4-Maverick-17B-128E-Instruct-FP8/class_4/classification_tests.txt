@@ -1,0 +1,10 @@
+[classification(rose,flower),be(white_rose,rose)],be(white_rose,flower)
+[classification(bmw,luxury_car),be(x5_model,bmw)],be(x5_model,luxury_car)
+[classification(oak_tree,tree),be(oak_tree_in_my_backyard,oak_tree)],be(oak_tree_in_my_backyard,tree)
+[classification(mystery_novel,novel),be(mystery_novel,mystery_novel)],be(mystery_novel,novel).
+[classification(laptop,electronic_device),be(dell_xps,laptop)],be(dell_xps,electronic_device)
+[classification(dolphin,dolphin),be(bottlenose_dolphin,dolphin)],be(bottlenose_dolphin,dolphin)
+[classification(whale,mammal),be(beluga,whale)],be(beluga,mammal).
+[classification(grand_piano,piano),be(grand_piano,grand_piano)],be(grand_piano,piano)
+[classification(bicycle,vehicle),be(my_bike,bicycle)],be(my_bike,vehicle)
+[classification(iPhone,smartphone),be(iPhones,iPhone)],be(iPhones,smartphone).

@@ -1,0 +1,10 @@
+All roses are flowers. Therefore, red roses are flowers.
+The X5 model is a BMW. Therefore, the X5 is a car.
+All oak trees are trees. Therefore, the giant oak in the park is a tree.
+Mystery novels are novels. Therefore, mystery novels are books.
+All laptops are electronic devices. Therefore, MacBooks are electronic devices.
+Bottlenose dolphins are dolphins. Therefore, bottlenose dolphins are marine mammals.
+All whales are mammals. Therefore, killer whales are mammals.
+Grand pianos are pianos. Therefore, grand pianos are musical instruments.
+All bicycles are vehicles. Therefore, mountain bikes are vehicles.
+iPhones are smartphones. Therefore, iPhones are electronic devices.

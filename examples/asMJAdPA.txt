@@ -1,0 +1,1 @@
+Argumentation scheme: [everybody_who_is(Y,accept(P)),goal_of(X,Y)],should(X,accept(P)). Example 1: Everybody who is compassionate accepts forgiveness. John's goal is to be compassionate. Therefore, John should accept forgiveness. [everybody_who_is(compassionate,accept(forgiveness)),goal_of(john,compassionate)],should(john,accept(forgiveness))

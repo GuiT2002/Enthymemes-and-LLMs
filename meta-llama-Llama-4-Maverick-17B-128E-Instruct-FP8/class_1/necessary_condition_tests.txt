@@ -1,0 +1,10 @@
+[goal(brought_about(technological_innovation)),necessary_condition(brought_about(technological_innovation),brought_about(increased_investment_in_research_and_development))],is_necessary(brought_about(increased_investment_in_research_and_development)).
+[goal(advancing(economic_prosperity)),necessary_condition(advancing(economic_prosperity),foster(business_friendly_environment))],is_necessary(foster(business_friendly_environment))
+`[goal(improve(healthcare)),necessary_condition(improve(healthcare),expand(healthcare_infrastructure))],is_necessary(expand(healthcare_infrastructure))`.
+[goal(strive_for(innovation,artificial_intelligence)),necessary_condition(strive_for(innovation,artificial_intelligence),advance(machine_learning_algorithms))],is_necessary(advance(machine_learning_algorithms))
+[goal(progress(cybersecurity)),necessary_condition(progress(cybersecurity),implement(robust_encryption_protocols))],is_necessary(implement(robust_encryption_protocols))
+[goal(advocate_for(sustainable_tech_practices)),necessary_condition(advocate_for(sustainable_tech_practices),promote(energy_efficient_computing))],is_necessary(promote(energy_efficient_computing))
+[goal(pursue(farming)),necessary_condition(pursue(farming),invest(smart_irrigation))],is_necessary(invest(smart_irrigation))
+[goal(pursue(encouraging,creativity)),necessary_condition(pursue(encouraging,creativity),find(inspiration))],is_necessary(find(inspiration))
+[goal(play(soccer)),necessary_condition(play(soccer),train(hard))],is_necessary(train(hard))
+[goal(play(chess)),necessary_condition(play(chess),review(chess_theory))],is_necessary(review(chess_theory))

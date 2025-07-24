@@ -1,0 +1,100 @@
+[features(laptop_nimbusBook,sleek_aluminum_body,high_resolution_retina_display,fast_charging_battery),features(laptop_nimbusBook_Pro,sleek_aluminum_body,high_resolution_retina_display,fast_charging_battery),classified(laptop_nimbusBook,flagship_device)],classified(laptop_nimbusBook_Pro,flagship_device)
+[features(pulseFit,continuous_heart_rate_monitoring,advanced_sleep_analysis),features(pulseFit_X,continuous_heart_rate_monitoring,advanced_sleep_analysis),classified(pulseFit,high_end_fitness_tracker)],classified(pulseFit_X,high_end_fitness_tracker)
+[features(gaming_console_Vortex,high_resolution_support,ray_tracing_technology),features(gaming_console_Vortex_Elite,high_resolution_support,ray_tracing_technology),classified(gaming_console_Vortex,flagship_device)],classified(gaming_console_Vortex_Elite,flagship_device)
+[features(washing_machine_EcoWash,energy-efficient_technology,variety_of_eco-friendly_wash_cycles),features(washing_machine_EcoWash_Plus,energy-efficient_technology,variety_of_eco-friendly_wash_cycles),classified(washing_machine_EcoWash,eco-friendly_device)],classified(washing_machine_EcoWash_Plus,eco-friendly_device)
+[features(novaTab,lightweight_design,responsive_AMOLED_touch_screen),features(novaTab_2,lightweight_design,responsive_AMOLED_touch_screen),classified(novaTab,good_tablet)],classified(novaTab_2,good_tablet)
+[features(smartphone_titan_x,high_resolution_camera,facial_recognition),features(smartphone_titan_x_pro,high_resolution_camera,facial_recognition),classified(smartphone_titan_x,flagship_device)],classified(smartphone_titan_x_pro,flagship_device)
+[features(chronoFit_3,fitness_tracking,water_resistance),features(chronoFit_3_pro,fitness_tracking,water_resistance),classified(chronoFit_3,fitness_smartwatch)],classified(chronoFit_3_pro,fitness_smartwatch)
+[features(Connectify,real-time_messaging,group_video_calls),features(Connectify_Plus,real-time_messaging,group_video_calls),classified(Connectify,premium_social_media_platform)],classified(Connectify_Plus,premium_social_media_platform)
+[features(FitTracker_3.0,real_time_workout_tracking,personalized_training_plans,social_sharing_capabilities),features(FitTracker_4.0,real_time_workout_tracking,personalized_training_plans,social_sharing_capabilities),classified(FitTracker_3.0,good_fitness_app)],classified(FitTracker_4.0,good_fitness_app).
+[features(BrewMaster,multiple_brewing_options,built_in_grinder,sleek_stainless_steel_design),features(BrewMaster_Elite,multiple_brewing_options,built_in_grinder,sleek_stainless_steel_design),classified(BrewMaster,high_end_coffee_machine)],classified(BrewMaster_Elite,high_end_coffee_machine)
+[adopt(sarah, opinion_respected_to("condemns micromanagement", managers)), adopt(sarah, opinion_respected_to("approves/defends micromanagement", her_supervisor)), is_different("condemns micromanagement", "approves/defends micromanagement"), is_similar(managers, her_supervisor)], is_using_double_standard(sarah)
+[adopt(mark, opinion_respected_to(opposes_strict_bedtimes, others_children)), adopt(mark, opinion_respected_to(supports_strict_bedtimes, his_own_kids)), is_different(opposes_strict_bedtimes, supports_strict_bedtimes), is_similar(others_children, his_own_kids)], is_using_double_standard(mark)
+[adopt(emily, opinion_respected_to(condemns_plagiarism, peers_assignments)), adopt(emily, opinion_respected_to(ignores_plagiarism, her_own_work)), is_different(condemns_plagiarism, ignores_plagiarism), is_similar(peers_assignments, her_own_work)], is_using_double_standard(emily)
+[adopt(daniel, opinion_respected_to(criticizes_cutting_corners_on_quality, client_projects)), adopt(daniel, opinion_respected_to(justifies_using_shortcuts, his_own_assignments)), is_different(criticizes_cutting_corners_on_quality, justifies_using_shortcuts), is_similar(client_projects, his_own_assignments)], is_using_double_standard(daniel)
+[adopt(linda, opinion_respected_to(criticizes_overuse_of_technology, colleagues)), adopt(linda, opinion_respected_to(excuses_overuse_of_technology, herself)), is_different(criticizes_overuse_of_technology, excuses_overuse_of_technology), is_similar(colleagues, herself)], is_using_double_standard(linda)
+[adopt(alex, opinion_respected_to(condemns_lying, intimate_relationships)), adopt(alex, opinion_respected_to(dismisses_lying, business_dealings)), is_different(condemns_lying, dismisses_lying), is_similar(intimate_relationships, business_dealings)], is_using_double_standard(alex)
+[adopt(michael, opinion_respected_to(demands_accountability, large_corporations_for_waste_management)), adopt(michael, opinion_respected_to(dismisses_accountability, individuals_for_household_recycling)), is_different(demands_accountability, dismisses_accountability), is_similar(large_corporations_for_waste_management, individuals_for_household_recycling)], is_using_double_standard(michael)
+[adopt(rachel, opinion_respected_to("criticizes noisy parties", "residents")), adopt(rachel, opinion_respected_to("ignores bias concerns", "her own noisy parties")), is_different("criticizes noisy parties", "ignores bias concerns"), is_similar("noisy parties by residents", "noisy parties by rachel")], is_using_double_standard(rachel)
+`[adopt(tom, opinion_respected_to("demands disciplined workout routine", "others")), adopt(tom, opinion_respected_to("flouts disciplined workout routine", "himself")), is_different("demands disciplined workout routine", "flouts disciplined workout routine"), is_similar("others", "himself")], is_using_double_standard(tom)`
+[adopt(lisa, opinion_respected_to("condemns aggressive marketing tactics", "competitors")), adopt(lisa, opinion_respected_to("defends aggressive marketing tactics", "her own campaigns")), is_different("condemns aggressive marketing tactics", "defends aggressive marketing tactics"), is_similar("competitors", "her own campaigns")], is_using_double_standard(lisa)
+[occured(exercising_regularly), followed(occured(exercising_regularly), occurs(good_health))], occurs(good_health).
+[occured(invests(company,employee_training)),followed(occured(invests(company,employee_training)),improves(company,employee_performance))],improves(company,employee_performance)
+[occured(following(recipe, accurately)), followed(occured(following(recipe, accurately)), occurs(successful_outcome))], occurs(successful_outcome).
+[occured(collaborates_effectively(team)),followed(occured(collaborates_effectively(team)),achieves(team,goals))],achieves(team,goals)
+[position_to_know(it_team,computer_system_status),asserts(it_team,properly_maintained(computer_system)),contain(computer_system_status,properly_maintained(computer_system))],properly_maintained(computer_system)
+[occured(gets(person,enough_sleep)),followed(occured(gets(person,enough_sleep)),feels(person,more_focused))],feels(person,more_focused).
+[occured(rains), followed(occured(rains), gets_wet(ground))], gets_wet(ground)
+[occured(attends(student,classes_regularly)),followed(occured(attends(student,classes_regularly)),improves(student,academic_performance))],improves(student,academic_performance)
+[occured(regular_maintenance_on_road), followed(occured(regular_maintenance_on_road), occurs(road_is_well_maintained))], occurs(road_is_well_maintained)
+[occured(gets(person,enough_sleep)),followed(occured(gets(person,enough_sleep)),improves(person,cognitive_performance))],occurs(improves(person,cognitive_performance))
+[would_help(brighter_streetlights,neighborhood),can_carry_out(city,brighter_streetlights),not_too_costly(city,brighter_streetlights)],ought_to_carry_out(city,brighter_streetlights)
+[would_help(regular_exercise,health),can_carry_out(individuals,regular_exercise),not_too_costly(individuals,regular_exercise)],ought_to_carry_out(individuals,regular_exercise)
+[would_help(reusable_bags,environment),can_carry_out(shoppers,reusable_bags),not_too_costly(shoppers,reusable_bags)],ought_to_carry_out(shoppers,reusable_bags)
+[would_help(clear_instructions,students),can_carry_out(teachers,clear_instructions),not_too_costly(teachers,clear_instructions)],ought_to_carry_out(teachers,clear_instructions)
+[would_help(more_recycling_bins,reduce_waste),can_carry_out(communities,more_recycling_bins),not_too_costly(communities,more_recycling_bins)],ought_to_carry_out(communities,more_recycling_bins).
+[would_help(regular_check-ups, maintain_good_health), can_carry_out(doctors, regular_check-ups), not_too_costly(doctors, regular_check-ups)], ought_to_carry_out(doctors, regular_check-ups)
+[would_help(improved_signage,drivers),can_carry_out(municipalities,improved_signage)],ought_to_carry_out(municipalities,improved_signage)
+[would_help(early_education,children),can_carry_out(schools,early_education),not_too_costly(schools,early_education)],ought_to_carry_out(schools,early_education)
+[would_help(team_building_activities, workplace_relationships), can_carry_out(managers, team_building_activities), not_too_costly(managers, team_building_activities)],ought_to_carry_out(managers, team_building_activities)
+[would_help(open_communication,resolve_conflicts),can_carry_out(team_members,open_communication),not_too_costly(team_members,open_communication)],ought_to_carry_out(team_members,open_communication)
+[has_property(love, affection), is_opposite(love, hate)], has_property(hate, opposite_of(affection))
+[has_property(order,structured),is_opposite(order,chaos)],has_property(chaos,opposite_of(structured))
+[has_property(light,illumination),is_opposite(light,darkness)],has_property(darkness,opposite_of(illumination)).
+[has_property(patience,calm),is_opposite(patience,impatience)],has_property(impatience,opposite_of(calm))
+[has_property(beauty,aesthetics),is_opposite(beauty,ugliness)],has_property(ugliness,opposite_of(aesthetics)).
+[has_property(progress,desirable),is_opposite(progress,regression)],has_property(regression,opposite_of(desirable))
+[has_property(humility,modesty),is_opposite(humility,arrogance)],has_property(arrogance,opposite_of(modesty))
+[has_property(knowledge,knowledgeable),is_opposite(knowledge,ignorance)],has_property(ignorance,opposite_of(knowledgeable)).
+[has_property(forgiveness,mercy),is_opposite(forgiveness,unforgiveness)],has_property(unforgiveness,opposite_of(mercy)).
+[has_property(hope,positive),is_opposite(hope,despair)],has_property(despair,opposite_of(positive)).
+[has_property(susan_cover_letter, filled_with_vague_generalities), vague_for(filled_with_vague_generalities, clarity_precision), occurs_in(susan_cover_letter, context_that_requires(clarity_precision))], should_be_rejected(susan_cover_letter)
+[has_property(dr_martin_proposal, imprecise_phrasing), vague_for(imprecise_phrasing, clarity_precision), occurs_in(dr_martin_proposal, context_that_requires(clarity_precision))], should_be_rejected(dr_martin_proposal)
+[has_property(new_dish, ambiguous_descriptors), vague_for(ambiguous_descriptors, clarity_precision), occurs_in(new_dish, context_that_requires(clarity_precision))], should_be_rejected(new_dish).
+[has_property(carloss_paper, ambiguous_descriptors), vague_for(ambiguous_descriptors, clarity_precision), occurs_in(carloss_paper, context_that_requires(clarity_precision))], should_be_rejected(carloss_paper)
+[has_property(architectural_design_proposal, ambiguous_references), vague_for(ambiguous_references, clarity_precision), occurs_in(architectural_design_proposal, context_that_requires(clarity_precision))], should_be_rejected(architectural_design_proposal)
+[has_property(politician_manifesto, lacking_specific_policy_measures), vague_for(lacking_specific_policy_measures, clarity_precision), occurs_in(politician_manifesto, context_that_requires(clarity_precision))], should_be_rejected(politician_manifesto)
+[has_property(clause_in_legal_contract, ambiguous_phrase), vague_for(ambiguous_phrase, clarity_precision), occurs_in(clause_in_legal_contract, context_that_requires(clarity_precision))],should_be_rejected(clause_in_legal_contract)
+[has_property(software_specification_document, vague_optimal_performance), vague_for(vague_optimal_performance, clarity_precision), occurs_in(software_specification_document, context_that_requires(clarity_precision))], should_be_rejected(software_specification_document)
+[has_property(critic_review, lacking_analytical_insight), vague_for(lacking_analytical_insight, clarity_precision), occurs_in(critic_review, context_that_requires(clarity_precision))], should_be_rejected(critic_review).
+[has_property(claim_product_is_best_ever, ambiguous_descriptors), vague_for(ambiguous_descriptors, clarity_precision), occurs_in(claim_product_is_best_ever, context_that_requires(clarity_precision))], should_be_rejected(claim_product_is_best_ever)
+[everybody_who_is(honest,accept(truth)),goal_of(john,honest)],should(john,accept(truth))
+[everybody_who_is(understanding,accept(forgiveness)),goal_of(mike,understanding)],should(mike,accept(forgiveness))
+[everybody_who_is(patient,accept(delays)),goal_of(john,patient)],should(john,accept(delays))
+[everybody_who_is(diligent,accept(hard_work)),goal_of(olivia,diligent)],should(olivia,accept(hard_work))`
+[everybody_who_is(optimistic,accept(challenges)),goal_of(john,optimistic)],should(john,accept(challenges))
+[everybody_who_is(resilient,accept(forgiveness)),goal_of(jake,resilient)],should(jake,accept(forgiveness))
+[everybody_who_is(humble,accept(praise)),goal_of(john,humble)],should(john,accept(praise))
+[everybody_who_is(ambitious,accept(hard_work)),goal_of(daniel,ambitious)],should(daniel,accept(hard_work))
+[everybody_who_is(tolerant,accept(diversity)),goal_of(john,tolerant)],should(john,accept(diversity))
+[everybody_who_is(optimistic,accept(positive_thinking)),goal_of(noah,optimistic)],should(noah,accept(positive_thinking))
+[classification(rose,flower),be(white_rose,rose)],be(white_rose,flower)
+[classification(bmw,luxury_car),be(x5_model,bmw)],be(x5_model,luxury_car)
+[classification(oak_tree,tree),be(oak_tree_in_my_backyard,oak_tree)],be(oak_tree_in_my_backyard,tree)
+[classification(mystery_novel,novel),be(mystery_novel,mystery_novel)],be(mystery_novel,novel).
+[classification(laptop,electronic_device),be(dell_xps,laptop)],be(dell_xps,electronic_device)
+[classification(dolphin,dolphin),be(bottlenose_dolphin,dolphin)],be(bottlenose_dolphin,dolphin)
+[classification(whale,mammal),be(beluga,whale)],be(beluga,mammal).
+[classification(grand_piano,piano),be(grand_piano,grand_piano)],be(grand_piano,piano)
+[classification(bicycle,vehicle),be(my_bike,bicycle)],be(my_bike,vehicle)
+[classification(iPhone,smartphone),be(iPhones,iPhone)],be(iPhones,smartphone).
+[goal(bring_about(technological_innovation)),necessary_condition(bring_about(technological_innovation),invest_in(research_and_development))],is_necessary(invest_in(research_and_development))
+[goal(achieve(this)),necessary_condition(achieve(this),foster(business_friendly_environment))],is_necessary(foster(business_friendly_environment))
+[goal(improve(healthcare)),necessary_condition(improve(healthcare),invest(medical_research))],is_necessary(invest(medical_research)).
+`[goal(pursue(transformation)),necessary_condition(pursue(transformation),advance(machine_learning_algorithms))],is_necessary(advance(machine_learning_algorithms))`
+[goal(progress(on,cybersecurity)),necessary_condition(progress(on,cybersecurity),invest(in,cybersecurity_training))],is_necessary(invest(in,cybersecurity_training)).
+[goal(achieve(objective)),necessary_condition(achieve(objective),promote(energy_efficient_computing))],is_necessary(promote(energy_efficient_computing))
+[goal(farming),necessary_condition(farming,have_fertile_land)],is_necessary(have_fertile_land).
+[goal(achieve(it)),necessary_condition(achieve(it),find(inspiration))],is_necessary(find(inspiration))
+[goal(play_soccer),necessary_condition(play_soccer,have_proper_training)],is_necessary(have_proper_training)
+[goal(improve_at_chess),necessary_condition(improve_at_chess,review_chess_theory)],is_necessary(review_chess_theory)
+[position_to_know(joseph,health_expertise),asserts(joseph,exercising_is_healthy),contain(health_expertise,exercising_is_healthy)],exercising_is_healthy
+[classification(mathematician, problem_solver), be(Maria, mathematician)], be(Maria, problem_solver)
+[position_to_know(emily,cell_biology),asserts(emily,have(eukaryotic_cells,mitochondria)),contain(cell_biology,have(eukaryotic_cells,mitochondria))],have(eukaryotic_cells,mitochondria)
+[classification(geologist,scientist),be(david,geologist)],be(david,scientist).
+[position_to_know(james,biology), asserts(james,bacterias_are_unicellular_microorganisms), contain(biology,bacterias_are_unicellular_microorganisms)], bacterias_are_unicellular_microorganisms
+[classification(computer_scientist,scientist),be(george,computer_scientist)],be(george,scientist)
+[position_to_know(peter,knowledge_about_health_effects_of_smoking),asserts(peter,causes(smoking,cancer)),contain(knowledge_about_health_effects_of_smoking,causes(smoking,cancer))],causes(smoking,cancer)
+[classification(economist,social_scientist),be(lisa,economist)],be(lisa,social_scientist)
+[position_to_know(mark,architectural_design),asserts(mark,form_follows_function),contain(architectural_design,form_follows_function)],form_follows_function.
+[classification(physicist,scientist),be(john,physicist)],be(john,scientist)

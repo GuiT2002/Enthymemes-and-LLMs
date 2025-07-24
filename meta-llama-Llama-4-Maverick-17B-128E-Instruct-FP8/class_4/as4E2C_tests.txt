@@ -1,0 +1,10 @@
+[occured(exercising_regularly), followed(occured(exercising_regularly), occurs(good_health))], occurs(good_health).
+[occured(invests(company,employee_training)),followed(occured(invests(company,employee_training)),improves(company,employee_performance))],improves(company,employee_performance)
+[occured(following(recipe, accurately)), followed(occured(following(recipe, accurately)), occurs(successful_outcome))], occurs(successful_outcome).
+[occured(collaborates_effectively(team)),followed(occured(collaborates_effectively(team)),achieves(team,goals))],achieves(team,goals)
+[position_to_know(it_team,computer_system_status),asserts(it_team,properly_maintained(computer_system)),contain(computer_system_status,properly_maintained(computer_system))],properly_maintained(computer_system)
+[occured(gets(person,enough_sleep)),followed(occured(gets(person,enough_sleep)),feels(person,more_focused))],feels(person,more_focused).
+[occured(provides(company,excellent_customer_service)),followed(occured(provides(company,excellent_customer_service)),increases(company,customer_satisfaction))],increases(company,customer_satisfaction)`
+[occured(attends(student,classes_regularly)),followed(occured(attends(student,classes_regularly)),improves(student,academic_performance))],improves(student,academic_performance)
+[occured(regular_maintenance_on_road), followed(occured(regular_maintenance_on_road), occurs(road_is_well_maintained))], occurs(road_is_well_maintained)
+[occured(gets(person,enough_sleep)),followed(occured(gets(person,enough_sleep)),improves(person,cognitive_performance))],occurs(improves(person,cognitive_performance))

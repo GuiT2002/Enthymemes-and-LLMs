@@ -1,0 +1,10 @@
+[would_help(brighter_streetlights,neighborhood),can_carry_out(city,brighter_streetlights),not_too_costly(city,brighter_streetlights)],ought_to_carry_out(city,brighter_streetlights)
+[would_help(regular_exercise,your_health),can_carry_out(individuals,regular_exercise),not_too_costly(individuals,regular_exercise)],ought_to_carry_out(individuals,regular_exercise).
+[would_help(reusable_bags,environment),can_carry_out(shoppers,reusable_bags),not_too_costly(shoppers,reusable_bags)],ought_to_carry_out(shoppers,reusable_bags)
+[would_help(clear_instructions,students),can_carry_out(teachers,clear_instructions),not_too_costly(teachers,clear_instructions)],ought_to_carry_out(teachers,clear_instructions)
+[would_help(more_recycling_bins,reduce_waste),can_carry_out(communities,more_recycling_bins)],ought_to_carry_out(communities,more_recycling_bins)
+[would_help(regular_check-ups,maintain_good_health),can_carry_out(doctors,regular_check-ups),not_too_costly(doctors,regular_check-ups)],ought_to_carry_out(doctors,regular_check-ups)
+[would_help(improved_signage,drivers),can_carry_out(municipalities,improved_signage),not_too_costly(municipalities,improved_signage)],ought_to_carry_out(municipalities,improved_signage)
+[would_help(early_education_programs, children), can_carry_out(schools, early_education_programs), not_too_costly(schools, early_education_programs)], ought_to_carry_out(schools, early_education_programs)
+[would_help(team_building_activities, workplace_relationships), can_carry_out(managers, team_building_activities), not_too_costly(managers, team_building_activities)], ought_to_carry_out(managers, team_building_activities)."
+[would_help(open_communication,resolve_conflicts),can_carry_out(team_members,open_communication),not_too_costly(team_members,open_communication)],ought_to_carry_out(team_members,open_communication)

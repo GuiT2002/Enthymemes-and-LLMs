@@ -1,0 +1,10 @@
+Joseph says that exercising is healthy. Therefore, we can conclude that exercising is healthy.
+Maria is a mathematician. So we can conclude that real numbers are a subset of complex numbers.
+Emily asserts that all eukaryotic cells have mitochondria. So all eukaryotic cells have mitochondria.
+David is a geologist. So we can conclude that volcanoes expel lava.
+James says that bacterias are unicellular microorganisms. So bacterias are unicellular microorganisms.       
+George is a computer scientist. So we can conclude that cryptography secures data. 
+Peter says that smoking causes cancer. Therefore, we can conclude that smoking causes cancer.
+Lisa is an economist. So we can conclude that supply and demand dynamics influence market prices.
+Mark maintains that form follows function in architectural design. So we can infer that form follows function in architectural design.
+John is a physicist. Therefore, we can conclude that black holes spin.

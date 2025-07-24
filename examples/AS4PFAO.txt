@@ -1,0 +1,1 @@
+Argumentation scheme: [has_property(R,P),is_opposite(R,S)],has_property(S,opposite_of(P)). Example 1: Fire has the property of hot. Fire is the opposite of ice. Therefore, ice has the opposite of hot as a property. [has_property(fire,hot),is_opposite(fire,ice)],has_property(ice,opposite_of(hot))
